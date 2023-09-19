@@ -1,4 +1,4 @@
-### Hi, I'm Temitope
+### Hi there ;)
 
 My name's Temitope (Samuel) Adebayo, I'm a Frontend Engineer and Data Analyst. I do both web and mobile development.
 
