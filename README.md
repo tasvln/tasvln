@@ -4,7 +4,7 @@ My name's Temitope (Samuel) Adebayo, I'm a Frontend Engineer and Data Analyst. I
 
 ##### I'm currently working on:
 
-A web based editor for fashion/streetwear designers and I tools that help me with my day to day tasks / experiemental open source projects.
+A web based editor for fashion/streetwear designers and tools that help me with my day to day tasks / experiemental open source projects.
 
 ##### I'm curious/currently learning:
 
