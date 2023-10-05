@@ -10,6 +10,7 @@ A web based editor for fashion/streetwear designers and tools that help me with 
 
 - Data Analytics ✅
 - Data Structures and Algorithms [in progress]
+- SwiftUI [in progress]
 - Systems Design [in progress]
 - Industrial Design
 - 3D Hardware Modelling
