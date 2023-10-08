@@ -1,6 +1,6 @@
 # Hi there ;)
 
-My name's Temitope (Samuel) Adebayo, I'm a Software Engineer and Data Analyst. I do both web, desktop and mobile development.
+My name's Temitope (Samuel) Adebayo, I'm a Software Engineer and Data Analyst. I do web, desktop and mobile development.
 
 ## I'm currently working on:
 
