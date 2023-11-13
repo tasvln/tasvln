@@ -8,10 +8,10 @@ An editor for fashion/streetwear designers and tools that help me with my day to
 
 ### I'm curiously/currently learning:
 
-- Data Analytics ✅
-- Data Structures and Algorithms [in progress]
-- SwiftUI ✅
-- Systems Design [in progress]
+- Data Analytics 
+- Data Structures and Algorithms 
+- SwiftUI 
+- Systems Design
 - Industrial Design
 - 3D Hardware Modelling
 
