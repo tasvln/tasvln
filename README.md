@@ -1,4 +1,4 @@
-## Hi there ;)
+## Hi :)
 
 My name's Temitope (Samuel) Adebayo, I'm a Software Engineer and Data Analyst.
 
