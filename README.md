@@ -6,9 +6,9 @@ My name's Temitope (Samuel) Adebayo, I'm a Software Developer and Data Analyst.
 
 Core Engineering
 
-### I'm curiously/currently learning:
+### I'm curiously/currently learning more about:
 
-- Systems Design
+- Software -> Hardware Integration
 - Industrial Design
 - 3D Hardware Modelling
 
