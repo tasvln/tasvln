@@ -4,7 +4,7 @@ My name's Temitope (Samuel) Adebayo, I'm a Software Developer and Data Analyst.
 
 ### I'm currently interested in:
 
-Core Engineering
+Integration Engineering
 
 ### I'm curiously/currently learning more about:
 
