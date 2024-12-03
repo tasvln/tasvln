@@ -1,6 +1,6 @@
 ## Hi :)
 
-My name's Temitope (Samuel) Adebayo, I'm a Software Developer and Data Analyst.
+My name's Temitope (Samuel) Adebayo, I'm a Software Engineer.
 
 ### I'm currently interested in:
 
