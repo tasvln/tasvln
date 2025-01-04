@@ -5,12 +5,13 @@ My name's Temitope (Samuel) Adebayo, I'm a Software Engineer.
 ### I'm currently interested in:
 
 Integration Engineering
+Game Development
 
 ### I'm curiously/currently learning more about:
 
+- SDL & OpenGL
+- Render Engineering
 - Software -> Hardware Integration
-- Industrial Design
-- 3D Hardware Modelling
 
 You can contact me at <tasvln@outlook.com>.
 
