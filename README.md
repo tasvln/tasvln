@@ -13,5 +13,5 @@ Game Development
 - Render Engineering
 - Software -> Hardware Integration
 
-You can contact me at <tasvln@outlook.com>.
+You can contact me at <temitopeadebayo05@yahoo.com>.
 
