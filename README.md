@@ -1,4 +1,4 @@
-Curious Programmer interested in Integration/Embedded Engineering & Game Development (Graphics Programming)
+Curious Programmer (Graphics/GPU Programming + Systems Engineering)
 
 
 https://www.ade.supply/
